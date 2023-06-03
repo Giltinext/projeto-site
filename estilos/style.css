@@ -4,14 +4,18 @@
 }
 
 body {
-    background-color: rgb(115, 51, 175);
+    background-color: rgb(94, 29, 155);
 
 }
 
 main {
-    background-color: aliceblue;
+    background-color: rgb(158, 221, 180);
     width: 500px;
     margin: auto;
-    padding: 10px;
+    padding: 10px
+;
     box-shadow: 3px 3px 5px black;
+}
+img.lado{
+    float:right
 }
